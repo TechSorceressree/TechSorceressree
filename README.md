@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manjusree, I'm a CS student!
-- 👀 I’m interested in Front-end development, AI, and Cybersecurity.
+- 👀 I’m interested in Front-end development, Cybersecurity, DevOps and AI.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
