@@ -18,3 +18,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSorceressree&theme=tokyonight&show_icns=true)]()
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
