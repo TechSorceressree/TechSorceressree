@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSorceressree&theme=tokyonight&show_icns=true)]()
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/output/github-contribution-grid-snake.svg)
-
+![BEPb's github activity graph](https://raw.githubusercontent.com/TechSorceressree/output/github-contribution-grid-snake.svg)
+<---
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+--->
 
 
