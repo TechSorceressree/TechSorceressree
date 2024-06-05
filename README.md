@@ -6,7 +6,6 @@
 - 👀 I’m interested in Cloud Security, IAM, Cybersecurity, Front-end development, Full-stack, DevOps and AI.
 - 🌱 I’m currently learning React, AWS
 - 💞️ I’m looking to collaborate on www.linkedin.com/in/manjusree-pushphaa9
-- 📫 How to reach me www.linkedin.com/in/manjusree-pushphaa9
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love playing chess
 <!--   my-skils -->
@@ -34,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-**📫 How to Reach me:**
+📫 How to Reach me:
 <p align="left">
 <!---<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/master/assets/twitter.svg" alt="TechSorceressree" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>--->
