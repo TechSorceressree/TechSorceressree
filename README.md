@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
 **📫 How to Reach me:**
 <p align="left">
 <!---<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/master/assets/twitter.svg" alt="TechSorceressree" height="30" width="30" /></a>--->
-<a href="https://www.linkedin.com/in/manjusree-pushphaa9" target="blank"><img align="center" src="[https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/master/assets/linkedin.svg](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)" alt="TechSorceressree" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/manjusree-pushphaa9" target="blank"><img align="center" src="https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/master/assets/linkedin.svg" alt="TechSorceressree" height="30" width="30" /></a>
 <a href="mailto:manju@udel.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
-
+#### Thanks for visiting :heart:
 
