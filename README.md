@@ -42,5 +42,6 @@ You can click the Preview link to take a look at your changes.
 <a href="mailto:manju@udel.edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 </p>
-#### Thanks for visiting ❤️
+
+Thanks for visiting ❤️
 
