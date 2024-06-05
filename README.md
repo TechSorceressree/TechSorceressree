@@ -15,5 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TechSorceressree&count_private=true&show_icons=true&theme=tokyonight)]()
 --->
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSorceressree&theme=tokyonight&show_icns=true)]()
 
