@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Cloud Security, IAM, Cybersecurity, Front-end development, Full-stack, DevOps and AI.
-- 🌱 I’m currently learning React, AWS
+<!--    🌱 I’m currently learning React, AWS -->
 - 💞️ I’m looking to collaborate on <a href="https://linkedin.com/in/manjusree-pushphaa9" target="blank"><img align="center" src="https://raw.githubusercontent.com/TechSorceressree/TechSorceressree/master/assets/linkedin.svg" alt="TechSorceressree" height="30" width="30" /></a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love playing chess
