@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSorceressree&theme=tokyonight&show_icns=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSorceressree&theme=dark&show_icns=true)]()
 
 📫 How to Reach Me:
 <p align="left">
